@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "battleship-cli-app-master",
+  "description": "## Introduction",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-game": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
